@@ -1,0 +1,1 @@
+Ini adalah file readme2 yang sangat berguna sekali
