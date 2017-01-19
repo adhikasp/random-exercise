@@ -1,0 +1,1 @@
+var READTHEDOCS_DATA={project:"coala-api",version:"latest",language:"en",subprojects:{},canonical_url:"http://api.coala.io/en/latest/",theme:"alabaster",builder:"sphinx",docroot:"/docs/",source_suffix:".rst",api_host:"https://readthedocs.org",commit:"8d21bb96"};
